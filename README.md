@@ -1,4 +1,4 @@
-# School Management System (Java & Spring Boot)
+# School Management App (Java & Spring Boot)
 
 A modern school data management system developed as part of the Coding Factory program (AUEB). The application enables the management of students, teachers, and courses, offering full CRUD functionality.
 
